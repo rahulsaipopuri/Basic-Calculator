@@ -31,4 +31,4 @@ Notes
 Uses eval() for calculations (not recommended for production due to security risks).
 Optimized for 320px width; adjust in style.css if needed.
 
-To view the site visit -
+To view the site visit - https://rahulsaipopuri.github.io/Basic-Calculator/
